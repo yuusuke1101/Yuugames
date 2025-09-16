@@ -1,0 +1,752 @@
+[
+  {
+    "index": 0,
+    "soal": "bahasa inggris dari kata makan",
+    "jawaban": "eat"
+  },
+  {
+    "index": 1,
+    "soal": "terjemahkan pergi ke sekolah",
+    "jawaban": "go to school"
+  },
+  {
+    "index": 2,
+    "soal": "what is the Indonesian word for 'sleep'?",
+    "jawaban": "tidur"
+  },
+  {
+    "index": 3,
+    "soal": "translate: I have a cat",
+    "jawaban": "saya punya seekor kucing"
+  },
+  {
+    "index": 4,
+    "soal": "apa bahasa inggrisnya cepat",
+    "jawaban": "fast"
+  },
+  {
+    "index": 5,
+    "soal": "translate: dia sedang membaca buku",
+    "jawaban": "he is reading a book"
+  },
+  {
+    "index": 6,
+    "soal": "what is the Indonesian translation of 'good morning'?",
+    "jawaban": "selamat pagi"
+  },
+  {
+    "index": 7,
+    "soal": "terjemahkan mereka bermain di taman",
+    "jawaban": "they are playing in the park"
+  },
+  {
+    "index": 8,
+    "soal": "translate to Indonesian: we love music",
+    "jawaban": "kami suka musik"
+  },
+  {
+    "index": 9,
+    "soal": "bahasa inggris dari kata hujan",
+    "jawaban": "rain"
+  },
+  {
+    "index": 10,
+    "soal": "translate: the sky is blue",
+    "jawaban": "langit berwarna biru"
+  },
+  {
+    "index": 11,
+    "soal": "apa bahasa inggrisnya berjalan kaki",
+    "jawaban": "walk"
+  },
+  {
+    "index": 12,
+    "soal": "translate to Indonesian: I am drinking coffee",
+    "jawaban": "saya sedang minum kopi"
+  },
+  {
+    "index": 13,
+    "soal": "terjemahkan saya belajar bahasa Inggris setiap hari",
+    "jawaban": "I study English every day"
+  },
+  {
+    "index": 14,
+    "soal": "what is the Indonesian word for 'teacher'?",
+    "jawaban": "guru"
+  },
+  {
+    "index": 15,
+    "soal": "translate: mereka memiliki dua anak",
+    "jawaban": "they have two children"
+  },
+  {
+    "index": 16,
+    "soal": "apa bahasa inggrisnya laut",
+    "jawaban": "sea"
+  },
+  {
+    "index": 17,
+    "soal": "translate to Indonesian: she is cooking in the kitchen",
+    "jawaban": "dia sedang memasak di dapur"
+  },
+  {
+    "index": 18,
+    "soal": "bahasa inggris dari kata pohon",
+    "jawaban": "tree"
+  },
+  {
+    "index": 19,
+    "soal": "translate: I want to buy a book",
+    "jawaban": "saya ingin membeli sebuah buku"
+  },
+  {
+    "index": 20,
+    "soal": "what is the Indonesian word for 'friend'?",
+    "jawaban": "teman"
+  },
+  {
+    "index": 21,
+    "soal": "terjemahkan mereka pergi ke pasar setiap pagi",
+    "jawaban": "they go to the market every morning"
+  },
+  {
+    "index": 22,
+    "soal": "translate: the dog is sleeping under the table",
+    "jawaban": "anjing itu sedang tidur di bawah meja"
+  },
+  {
+    "index": 23,
+    "soal": "apa bahasa inggrisnya gunung",
+    "jawaban": "mountain"
+  },
+  {
+    "index": 24,
+    "soal": "translate to Indonesian: I like to play football",
+    "jawaban": "saya suka bermain sepak bola"
+  },
+  {
+    "index": 25,
+    "soal": "what is the Indonesian translation of 'happy birthday'?",
+    "jawaban": "selamat ulang tahun"
+  },
+  {
+    "index": 26,
+    "soal": "terjemahkan burung itu sedang terbang",
+    "jawaban": "the bird is flying"
+  },
+  {
+    "index": 27,
+    "soal": "bahasa inggris dari kata tidur siang",
+    "jawaban": "nap"
+  },
+  {
+    "index": 28,
+    "soal": "translate: she has a beautiful smile",
+    "jawaban": "dia memiliki senyuman yang indah"
+  },
+  {
+    "index": 29,
+    "soal": "apa bahasa inggrisnya sekolah",
+    "jawaban": "school"
+  },
+  {
+    "index": 30,
+    "soal": "translate to Indonesian: we are watching television",
+    "jawaban": "kami sedang menonton televisi"
+  },
+  {
+    "index": 31,
+    "soal": "apa bahasa inggrisnya rumah sakit",
+    "jawaban": "hospital"
+  },
+  {
+    "index": 32,
+    "soal": "translate: the children are playing football",
+    "jawaban": "anak-anak sedang bermain sepak bola"
+  },
+  {
+    "index": 33,
+    "soal": "bahasa inggris dari kata sarapan",
+    "jawaban": "breakfast"
+  },
+  {
+    "index": 34,
+    "soal": "translate to Indonesian: I am learning mathematics",
+    "jawaban": "saya sedang belajar matematika"
+  },
+  {
+    "index": 35,
+    "soal": "apa bahasa inggrisnya toko",
+    "jawaban": "shop"
+  },
+  {
+    "index": 36,
+    "soal": "translate: he goes to school by bicycle",
+    "jawaban": "dia pergi ke sekolah dengan sepeda"
+  },
+  {
+    "index": 37,
+    "soal": "bahasa inggris dari kata makanan",
+    "jawaban": "food"
+  },
+  {
+    "index": 38,
+    "soal": "translate: we are listening to music",
+    "jawaban": "kami sedang mendengarkan musik"
+  },
+  {
+    "index": 39,
+    "soal": "apa bahasa inggrisnya musim panas",
+    "jawaban": "summer"
+  },
+  {
+    "index": 40,
+    "soal": "translate to Indonesian: my father is a doctor",
+    "jawaban": "ayah saya adalah seorang dokter"
+  },
+  {
+    "index": 41,
+    "soal": "apa bahasa inggrisnya musim dingin",
+    "jawaban": "winter"
+  },
+  {
+    "index": 42,
+    "soal": "translate: the sun is shining",
+    "jawaban": "matahari sedang bersinar"
+  },
+  {
+    "index": 43,
+    "soal": "bahasa inggris dari kata pantai",
+    "jawaban": "beach"
+  },
+  {
+    "index": 44,
+    "soal": "translate to Indonesian: she is talking to her friend",
+    "jawaban": "dia sedang berbicara dengan temannya"
+  },
+  {
+    "index": 45,
+    "soal": "apa bahasa inggrisnya kue",
+    "jawaban": "cake"
+  },
+  {
+    "index": 46,
+    "soal": "translate: the book is on the table",
+    "jawaban": "buku itu ada di atas meja"
+  },
+  {
+    "index": 47,
+    "soal": "bahasa inggris dari kata mobil",
+    "jawaban": "car"
+  },
+  {
+    "index": 48,
+    "soal": "translate: I am writing a letter",
+    "jawaban": "saya sedang menulis sebuah surat"
+  },
+  {
+    "index": 49,
+    "soal": "apa bahasa inggrisnya bunga",
+    "jawaban": "flower"
+  },
+  {
+    "index": 50,
+    "soal": "translate: the teacher is in the classroom",
+    "jawaban": "guru itu ada di dalam kelas"
+  },
+  {
+    "index": 51,
+    "soal": "bahasa inggris dari kata kursi",
+    "jawaban": "chair"
+  },
+  {
+    "index": 52,
+    "soal": "translate: we are drinking water",
+    "jawaban": "kami sedang minum air"
+  },
+  {
+    "index": 53,
+    "soal": "apa bahasa inggrisnya jendela",
+    "jawaban": "window"
+  },
+  {
+    "index": 54,
+    "soal": "translate to Indonesian: the cat is under the bed",
+    "jawaban": "kucing itu ada di bawah tempat tidur"
+  },
+  {
+    "index": 55,
+    "soal": "bahasa inggris dari kata meja",
+    "jawaban": "table"
+  },
+  {
+    "index": 56,
+    "soal": "translate: she is wearing a red dress",
+    "jawaban": "dia sedang memakai gaun merah"
+  },
+  {
+    "index": 57,
+    "soal": "apa bahasa inggrisnya air",
+    "jawaban": "water"
+  },
+  {
+    "index": 58,
+    "soal": "translate: they are studying in the library",
+    "jawaban": "mereka sedang belajar di perpustakaan"
+  },
+  {
+    "index": 59,
+    "soal": "bahasa inggris dari kata matahari",
+    "jawaban": "sun"
+  },
+  {
+    "index": 60,
+    "soal": "translate to Indonesian: I have many friends",
+    "jawaban": "saya memiliki banyak teman"
+  },
+  {
+    "index": 61,
+    "soal": "apa bahasa inggrisnya bulan (langit)",
+    "jawaban": "moon"
+  },
+  {
+    "index": 62,
+    "soal": "translate: the baby is crying",
+    "jawaban": "bayi itu sedang menangis"
+  },
+  {
+    "index": 63,
+    "soal": "bahasa inggris dari kata bintang",
+    "jawaban": "star"
+  },
+  {
+    "index": 64,
+    "soal": "translate: the train is very fast",
+    "jawaban": "kereta itu sangat cepat"
+  },
+  {
+    "index": 65,
+    "soal": "apa bahasa inggrisnya hujan salju",
+    "jawaban": "snow"
+  },
+  {
+    "index": 66,
+    "soal": "translate: the bus is coming",
+    "jawaban": "bus itu sedang datang"
+  },
+  {
+    "index": 67,
+    "soal": "bahasa inggris dari kata api",
+    "jawaban": "fire"
+  },
+  {
+    "index": 68,
+    "soal": "translate to Indonesian: I am reading a newspaper",
+    "jawaban": "saya sedang membaca koran"
+  },
+  {
+    "index": 69,
+    "soal": "apa bahasa inggrisnya ikan",
+    "jawaban": "fish"
+  },
+  {
+    "index": 70,
+    "soal": "translate: the shop is closed today",
+    "jawaban": "toko itu tutup hari ini"
+  },
+  {
+    "index": 71,
+    "soal": "bahasa inggris dari kata jalan",
+    "jawaban": "street"
+  },
+  {
+    "index": 72,
+    "soal": "translate to Indonesian: my sister is sleeping",
+    "jawaban": "adik perempuan saya sedang tidur"
+  },
+  {
+    "index": 73,
+    "soal": "apa bahasa inggrisnya ayah",
+    "jawaban": "father"
+  },
+  {
+    "index": 74,
+    "soal": "translate: the dog is barking loudly",
+    "jawaban": "anjing itu sedang menggonggong dengan keras"
+  },
+  {
+    "index": 75,
+    "soal": "bahasa inggris dari kata ibu",
+    "jawaban": "mother"
+  },
+  {
+    "index": 76,
+    "soal": "translate: we are going to the cinema",
+    "jawaban": "kami sedang pergi ke bioskop"
+  },
+  {
+    "index": 77,
+    "soal": "apa bahasa inggrisnya kakak laki-laki",
+    "jawaban": "brother"
+  },
+  {
+    "index": 78,
+    "soal": "translate to Indonesian: the phone is ringing",
+    "jawaban": "telepon itu sedang berdering"
+  },
+  {
+    "index": 79,
+    "soal": "bahasa inggris dari kata kakak perempuan",
+    "jawaban": "sister"
+  },
+  {
+    "index": 80,
+    "soal": "translate: the children are laughing",
+    "jawaban": "anak-anak itu sedang tertawa"
+  },
+  {
+    "index": 81,
+    "soal": "apa bahasa inggrisnya hujan deras",
+    "jawaban": "heavy rain"
+  },
+  {
+    "index": 82,
+    "soal": "translate to Indonesian: I am playing guitar",
+    "jawaban": "saya sedang bermain gitar"
+  },
+  {
+    "index": 83,
+    "soal": "bahasa inggris dari kata buku",
+    "jawaban": "book"
+  },
+  {
+    "index": 84,
+    "soal": "translate: the students are in the classroom",
+    "jawaban": "murid-murid ada di dalam kelas"
+  },
+  {
+    "index": 85,
+    "soal": "apa bahasa inggrisnya kota",
+    "jawaban": "city"
+  },
+  {
+    "index": 86,
+    "soal": "translate to Indonesian: my mother is cooking rice",
+    "jawaban": "ibu saya sedang memasak nasi"
+  },
+  {
+    "index": 87,
+    "soal": "bahasa inggris dari kata desa",
+    "jawaban": "village"
+  },
+  {
+    "index": 88,
+    "soal": "translate: the clock is on the wall",
+    "jawaban": "jam itu ada di dinding"
+  },
+  {
+    "index": 89,
+    "soal": "apa bahasa inggrisnya pasar",
+    "jawaban": "market"
+  },
+  {
+    "index": 90,
+    "soal": "translate to Indonesian: I am drinking tea",
+    "jawaban": "saya sedang minum teh"
+  },
+  {
+    "index": 91,
+    "soal": "bahasa inggris dari kata dokter",
+    "jawaban": "doctor"
+  },
+  {
+    "index": 92,
+    "soal": "translate: the baby is sleeping",
+    "jawaban": "bayi itu sedang tidur"
+  },
+  {
+    "index": 93,
+    "soal": "apa bahasa inggrisnya teman baik",
+    "jawaban": "best friend"
+  },
+  {
+    "index": 94,
+    "soal": "translate: the bird is singing",
+    "jawaban": "burung itu sedang bernyanyi"
+  },
+  {
+    "index": 95,
+    "soal": "bahasa inggris dari kata meja belajar",
+    "jawaban": "study table"
+  },
+  {
+    "index": 96,
+    "soal": "translate: he is opening the door",
+    "jawaban": "dia sedang membuka pintu"
+  },
+  {
+    "index": 97,
+    "soal": "apa bahasa inggrisnya pensil",
+    "jawaban": "pencil"
+  },
+  {
+    "index": 98,
+    "soal": "translate to Indonesian: we are eating dinner",
+    "jawaban": "kami sedang makan malam"
+  },
+  {
+    "index": 99,
+    "soal": "bahasa inggris dari kata sepatu",
+    "jawaban": "shoes"
+  },
+  {
+    "index": 100,
+    "soal": "apa bahasa inggrisnya kacamata",
+    "jawaban": "glasses"
+  },
+  {
+    "index": 101,
+    "soal": "translate: the boy is running fast",
+    "jawaban": "anak laki-laki itu sedang berlari cepat"
+  },
+  {
+    "index": 102,
+    "soal": "bahasa inggris dari kata pensil warna",
+    "jawaban": "colored pencil"
+  },
+  {
+    "index": 103,
+    "soal": "translate to Indonesian: the girl is dancing",
+    "jawaban": "gadis itu sedang menari"
+  },
+  {
+    "index": 104,
+    "soal": "apa bahasa inggrisnya jam tangan",
+    "jawaban": "watch"
+  },
+  {
+    "index": 105,
+    "soal": "translate: my brother is playing chess",
+    "jawaban": "saudara laki-laki saya sedang bermain catur"
+  },
+  {
+    "index": 106,
+    "soal": "bahasa inggris dari kata pakaian",
+    "jawaban": "clothes"
+  },
+  {
+    "index": 107,
+    "soal": "translate to Indonesian: we are studying English",
+    "jawaban": "kami sedang belajar bahasa Inggris"
+  },
+  {
+    "index": 108,
+    "soal": "apa bahasa inggrisnya lemari",
+    "jawaban": "cupboard"
+  },
+  {
+    "index": 109,
+    "soal": "translate: the children are eating ice cream",
+    "jawaban": "anak-anak itu sedang makan es krim"
+  },
+  {
+    "index": 110,
+    "soal": "bahasa inggris dari kata topi",
+    "jawaban": "hat"
+  },
+  {
+    "index": 111,
+    "soal": "translate: I am cleaning my room",
+    "jawaban": "saya sedang membersihkan kamar saya"
+  },
+  {
+    "index": 112,
+    "soal": "apa bahasa inggrisnya sepeda",
+    "jawaban": "bicycle"
+  },
+  {
+    "index": 113,
+    "soal": "translate: the teacher is writing on the board",
+    "jawaban": "guru itu sedang menulis di papan tulis"
+  },
+  {
+    "index": 114,
+    "soal": "bahasa inggris dari kata buku tulis",
+    "jawaban": "notebook"
+  },
+  {
+    "index": 115,
+    "soal": "translate: she is drinking orange juice",
+    "jawaban": "dia sedang minum jus jeruk"
+  },
+  {
+    "index": 116,
+    "soal": "apa bahasa inggrisnya kertas",
+    "jawaban": "paper"
+  },
+  {
+    "index": 117,
+    "soal": "translate: they are playing basketball",
+    "jawaban": "mereka sedang bermain bola basket"
+  },
+  {
+    "index": 118,
+    "soal": "bahasa inggris dari kata musik",
+    "jawaban": "music"
+  },
+  {
+    "index": 119,
+    "soal": "translate to Indonesian: the baby is smiling",
+    "jawaban": "bayi itu sedang tersenyum"
+  },
+  {
+    "index": 120,
+    "soal": "apa bahasa inggrisnya film",
+    "jawaban": "movie"
+  },
+  {
+    "index": 121,
+    "soal": "translate: the shop is very crowded",
+    "jawaban": "toko itu sangat ramai"
+  },
+  {
+    "index": 122,
+    "soal": "bahasa inggris dari kata televisi",
+    "jawaban": "television"
+  },
+  {
+    "index": 123,
+    "soal": "translate: my father is reading a magazine",
+    "jawaban": "ayah saya sedang membaca majalah"
+  },
+  {
+    "index": 124,
+    "soal": "apa bahasa inggrisnya radio",
+    "jawaban": "radio"
+  },
+  {
+    "index": 125,
+    "soal": "translate to Indonesian: the doctor is checking the patient",
+    "jawaban": "dokter itu sedang memeriksa pasien"
+  },
+  {
+    "index": 126,
+    "soal": "bahasa inggris dari kata komputer",
+    "jawaban": "computer"
+  },
+  {
+    "index": 127,
+    "soal": "translate: she is writing an email",
+    "jawaban": "dia sedang menulis email"
+  },
+  {
+    "index": 128,
+    "soal": "apa bahasa inggrisnya internet",
+    "jawaban": "internet"
+  },
+  {
+    "index": 129,
+    "soal": "translate to Indonesian: the boy is fixing his bike",
+    "jawaban": "anak laki-laki itu sedang memperbaiki sepedanya"
+  },
+  {
+    "index": 130,
+    "soal": "bahasa inggris dari kata surat kabar",
+    "jawaban": "newspaper"
+  },
+  {
+    "index": 131,
+    "soal": "translate: the students are doing homework",
+    "jawaban": "para murid sedang mengerjakan PR"
+  },
+  {
+    "index": 132,
+    "soal": "apa bahasa inggrisnya tas sekolah",
+    "jawaban": "school bag"
+  },
+  {
+    "index": 133,
+    "soal": "translate: the bus stop is near the park",
+    "jawaban": "halte bus itu dekat taman"
+  },
+  {
+    "index": 134,
+    "soal": "bahasa inggris dari kata pisang",
+    "jawaban": "banana"
+  },
+  {
+    "index": 135,
+    "soal": "translate: the apple is red",
+    "jawaban": "apel itu berwarna merah"
+  },
+  {
+    "index": 136,
+    "soal": "apa bahasa inggrisnya mangga",
+    "jawaban": "mango"
+  },
+  {
+    "index": 137,
+    "soal": "translate to Indonesian: she is cutting the cake",
+    "jawaban": "dia sedang memotong kue"
+  },
+  {
+    "index": 138,
+    "soal": "bahasa inggris dari kata jeruk",
+    "jawaban": "orange"
+  },
+  {
+    "index": 139,
+    "soal": "translate: the watermelon is big",
+    "jawaban": "semangka itu besar"
+  },
+  {
+    "index": 140,
+    "soal": "apa bahasa inggrisnya anggur",
+    "jawaban": "grape"
+  },
+  {
+    "index": 141,
+    "soal": "translate to Indonesian: I like to eat strawberries",
+    "jawaban": "saya suka makan stroberi"
+  },
+  {
+    "index": 142,
+    "soal": "bahasa inggris dari kata sayur",
+    "jawaban": "vegetable"
+  },
+  {
+    "index": 143,
+    "soal": "translate: the soup is very hot",
+    "jawaban": "sup itu sangat panas"
+  },
+  {
+    "index": 144,
+    "soal": "apa bahasa inggrisnya roti",
+    "jawaban": "bread"
+  },
+  {
+    "index": 145,
+    "soal": "translate: the milk is cold",
+    "jawaban": "susu itu dingin"
+  },
+  {
+    "index": 146,
+    "soal": "bahasa inggris dari kata keju",
+    "jawaban": "cheese"
+  },
+  {
+    "index": 147,
+    "soal": "translate to Indonesian: the tea is sweet",
+    "jawaban": "teh itu manis"
+  },
+  {
+    "index": 148,
+    "soal": "apa bahasa inggrisnya telur",
+    "jawaban": "egg"
+  },
+  {
+    "index": 149,
+    "soal": "translate: the chicken is delicious",
+    "jawaban": "ayam itu enak"
+  }
+]
