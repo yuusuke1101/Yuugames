@@ -56,7 +56,7 @@
     {"negara": "Argentina", "tempat": "Kawah Diamante"},
     {"negara": "Filipina", "tempat": "Gunung Pinatubo"},
     {"negara": "Chili", "tempat": "Palung Peru-Chile"},
-    {"negara": "Meksiko", "tempat": "Palung Meksiko"},
+    {"negara": "Meksiko", "tempat": "Mexico Trench"},
     {"negara": "Indonesia", "tempat": "Palung Jawa"},
     {"negara": "Kanada", "tempat": "Kawah Manicouagan"},
     {"negara": "Amerika Serikat", "tempat": "Meteor Crater"},
@@ -205,7 +205,6 @@
     {"negara": "San Marino", "tempat": "Guaita Fortress"},
     {"negara": "Andorra", "tempat": "Pyrenees Mountains"},
     {"negara": "Vatikan", "tempat": "Basilika Santo Petrus"},
-[
     {"negara": "Malta", "tempat": "Mdina Old City"},
     {"negara": "Siprus", "tempat": "Kyrenia Castle"},
     {"negara": "Seychelles", "tempat": "Anse Source d’Argent"},
@@ -255,4 +254,5 @@
     {"negara": "Palestina", "tempat": "Bethlehem"},
     {"negara": "Yaman", "tempat": "Shibam Hadramaut"},
     {"negara": "Kuwait", "tempat": "Kuwait Towers"}
+
 ]
